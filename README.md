@@ -6,11 +6,11 @@ May I guide through the repo??
 
 If you are new to github and are little confused with what to do with the repo don't worry, just follow these instructions.
 
-Here I have uploaded all the fies. To access them just click the view code button just above these text. Then all the files inside this repo will become visible to you. You can either download them or fork them.
-
 You can directly go to the numpy revision notebook here : https://github.com/Dark-knight-02/OpenCV_Workshop/blob/54df900dff0c3a1b0d7572863e8e21fedf514b7a/Numpy_Revise.ipynb
 
 You can directly go to the numpy revision notebook here : https://github.com/Dark-knight-02/OpenCV_Workshop/blob/54df900dff0c3a1b0d7572863e8e21fedf514b7a/OpenCV_Tutorial.ipynb
+
+Here I have uploaded all the fies. To access them just click the view code button just above these text. Then all the files inside this repo will become visible to you. You can either download them or fork and clone them.
 
 !!Fork and clone!! What does that mean???
 
