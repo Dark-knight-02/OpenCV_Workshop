@@ -2,7 +2,7 @@
 This git repo consist of all the codes images and PPT of the workshop on basics of Numpy and OpenCV that me along with Somya Bansal conducted as a part of Aero Modelling Club IIT BHU on 31-01-2022.
 
 ## Hello My dear friend
-May I guide through the repo??
+May I guide you through the repo??
 
 If you are new to github and are little confused with what to do with the repo don't worry, just follow these instructions.
 
