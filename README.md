@@ -1,5 +1,5 @@
 # OpenCV_Workshop
-This git repo consist of all the codes images and PPT of the workshop on basics of Numpy and OpenCV that me along with Somya Bansal conducted as a part of Aero Modelling Club IIT BHU on 31-01-2022.
+This git repo consist of all the codes images and PPT of the workshop on basics of Numpy and OpenCV.
 
 To directly go to the assignment session [click here](https://github.com/Dark-knight-02/OpenCV_Workshop/tree/main/Assignment).
 
